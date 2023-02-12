@@ -17,7 +17,7 @@ export default function Home() {
             Check back soon; it will not be long :)
           </p>
           <div className="flex bg-[#77459B] py-5 px-8 text-[#F6F6F6] text-base font-semibold text-center gap-7 items-center w-[255px] rounded cursor-pointer  ">
-            <a href="#">
+            <a href="http://www.linktr.ee/jademediapro">
               {" "}
               <button>Get Direct Access</button>
             </a>{" "}
